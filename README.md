@@ -93,18 +93,11 @@
 
 ## 🤝 Let's Connect
 
+## 🤝 Let's Connect
+
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/krutik-dhabaliya-398760130">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:dhabaliya.krutik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
+<a href="https://www.linkedin.com/in/krutik-dhabaliya-398760130"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:dhabaliya.krutik@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
