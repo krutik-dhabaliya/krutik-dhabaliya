@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krutik Dhabaliya</h1>
 
 <h3 align="center">
-💻 Data Enthusiast | 🤖 AI/ML Explorer | 🐍 Python & SQL Developer
+📊 Data Analyst | 💼 Business Developer | 🐍 Python & SQL Enthusiast
 </h3>
 
 <p align="center">
@@ -10,44 +10,60 @@
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Fun Facts About Me
 
-- 🔭 I’m currently building exciting **Data & AI projects**
-- 🌱 I’m continuously learning **Machine Learning, AI & Data Analytics**
-- 🐍 I enjoy working with **Python, SQL and data**
-- 📊 I love transforming raw data into **meaningful insights**
-- 💡 Interested in solving **real-world problems with technology**
-- 🚀 Always curious, always learning, always building
+- 🧹 I love **cleaning messy data** and turning it into meaningful insights.
+- 📊 I enjoy finding **patterns, trends, and stories hidden in data**.
+- 💼 I’m passionate about connecting **data insights with business growth and opportunities**.
+- 🎯 I like solving real-world problems and supporting **data-driven business decisions**.
+- 📈 I’m interested in understanding both **what the data says and what the business needs**.
+- 🚀 Always learning, improving, and exploring new ways to create **business value through data**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### 💻 Languages & Data
-
+### 📊 Data Analysis & Programming
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🤖 AI & Machine Learning
-
+### 📈 Statistical & Analytical Techniques
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regression%20Analysis-4C78A8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Predictive%20Analytics-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Forecasting-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Anomaly%20Detection-D9534F?style=for-the-badge"/>
 </p>
 
-### 📊 Visualization & Tools
+### 🗄️ Data Engineering & Modelling
+<p>
+  <img src="https://img.shields.io/badge/ETL%20Processes-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Modelling-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Quality%20Validation-2E8B57?style=for-the-badge"/>
+</p>
 
+### 📊 Business Intelligence & Visualisation
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KPI%20Analysis-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboards-FFB000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Executive%20Reporting-5B5B5B?style=for-the-badge"/>
+</p>
+
+### 🤝 Collaboration & Documentation
+<p>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
