@@ -100,7 +100,7 @@
   </a>
 
   <a href="mailto:dhabaliya.krutik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-dhabaliya.krutik%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 </p>
